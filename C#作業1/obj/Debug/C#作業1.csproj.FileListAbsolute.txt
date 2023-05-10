@@ -1,0 +1,107 @@
+C:\Users\User\Desktop\C#練習\作業\C#作業1\C#作業1\bin\Debug\C#作業1.pdb
+C:\Users\User\Desktop\C#練習\作業\C#作業1\C#作業1\obj\Debug\C#作業1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#練習\作業\C#作業1\C#作業1\obj\Debug\C_作業1.Form1.resources
+C:\Users\User\Desktop\C#練習\作業\C#作業1\C#作業1\obj\Debug\C_作業1.Properties.Resources.resources
+C:\Users\User\Desktop\C#練習\作業\C#作業1\C#作業1\obj\Debug\C#作業1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#練習\作業\C#作業1\C#作業1\obj\Debug\C#作業1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#練習\作業\C#作業1\C#作業1\obj\Debug\C#作業1.pdb
+C:\Users\User\Desktop\C#練習\作業\C#作業1\C#作業1\bin\Debug\C#作業1.exe.config
+C:\Users\User\Desktop\C#練習\作業\C#作業1\C#作業1\bin\Debug\C#作業1.exe
+C:\Users\User\Desktop\C#練習\作業\C#作業1\C#作業1\obj\Debug\C#作業1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C#練習\作業\C#作業1\C#作業1\obj\Debug\C#作業1.exe
+C:\Users\User\Desktop\C#練習\作業\C#作業1\C#作業1\obj\Debug\C_作業1.MainForm.resources
+C:\Users\User\Desktop\C#練習\作業\C#作業1\C#作業1\obj\Debug\C_作業1.Loan.resources
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\C#作業1\obj\Debug\C#作業1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\C#作業1\obj\Debug\C#作業1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\C#作業1\obj\Debug\C_作業1.Form1.resources
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\C#作業1\obj\Debug\C_作業1.Loan.resources
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\C#作業1\obj\Debug\C_作業1.MainForm.resources
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\C#作業1\obj\Debug\C_作業1.Properties.Resources.resources
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\C#作業1\obj\Debug\C#作業1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\C#作業1\obj\Debug\C#作業1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\C#作業1\obj\Debug\C#作業1.exe
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\C#作業1\obj\Debug\C#作業1.pdb
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\C#作業1\bin\Debug\C#作業1.exe.config
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\C#作業1\bin\Debug\C#作業1.exe
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\C#作業1\bin\Debug\C#作業1.pdb
+C:\Users\User\Desktop\C#練習\作業\C#作業1\C#作業1\obj\Debug\C_作業1.Loan_Report.resources
+C:\Users\User\Desktop\C#練習\作業\C#作業1\C#作業1\obj\Debug\C_作業1.Simple_Calculator.resources
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\C#作業1\obj\Debug\C_作業1.Loan_Report.resources
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\C#作業1\obj\Debug\C_作業1.OrderFood.resources
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\C#作業1\obj\Debug\C_作業1.Simple_Calculator.resources
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\C#作業1\obj\Debug\C_作業1.Tic_Tac_Toe.resources
+C:\Users\User\Desktop\C#練習\作業\C#作業1\C#作業1\obj\Debug\C_作業1.OrderFood.resources
+C:\Users\User\Desktop\C#練習\作業\C#作業1\C#作業1\obj\Debug\C_作業1.Tic_Tac_Toe.resources
+C:\Users\User\Desktop\C#練習\作業\C#作業1\C#作業1\obj\Debug\C_作業1.Guess_Number.resources
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\C#作業1\obj\Debug\C_作業1.Guess_Number.resources
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\bin\Debug\C#作業1.exe.config
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\bin\Debug\C#作業1.exe
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\bin\Debug\C#作業1.pdb
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\obj\Debug\C#作業1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\obj\Debug\C#作業1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\obj\Debug\C_作業1.Form1.resources
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\obj\Debug\C_作業1.Guess_Number.resources
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\obj\Debug\C_作業1.Loan.resources
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\obj\Debug\C_作業1.Loan_Report.resources
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\obj\Debug\C_作業1.MainForm.resources
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\obj\Debug\C_作業1.OrderFood.resources
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\obj\Debug\C_作業1.Properties.Resources.resources
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\obj\Debug\C_作業1.ScoreComparison.resources
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\obj\Debug\C_作業1.Simple_Calculator.resources
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\obj\Debug\C_作業1.Tic_Tac_Toe.resources
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\obj\Debug\C#作業1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\obj\Debug\C#作業1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\obj\Debug\C#作業1.exe
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\obj\Debug\C#作業1.pdb
+C:\Users\User\Desktop\C#練習\作業\作業\C#作業1\bin\Debug\C#作業1.exe.config
+C:\Users\User\Desktop\C#練習\作業\作業\C#作業1\bin\Debug\C#作業1.exe
+C:\Users\User\Desktop\C#練習\作業\作業\C#作業1\bin\Debug\C#作業1.pdb
+C:\Users\User\Desktop\C#練習\作業\作業\C#作業1\obj\Debug\C#作業1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#練習\作業\作業\C#作業1\obj\Debug\C#作業1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C#練習\作業\作業\C#作業1\obj\Debug\C_作業1.Form1.resources
+C:\Users\User\Desktop\C#練習\作業\作業\C#作業1\obj\Debug\C_作業1.Guess_Number.resources
+C:\Users\User\Desktop\C#練習\作業\作業\C#作業1\obj\Debug\C_作業1.Loan.resources
+C:\Users\User\Desktop\C#練習\作業\作業\C#作業1\obj\Debug\C_作業1.Loan_Report.resources
+C:\Users\User\Desktop\C#練習\作業\作業\C#作業1\obj\Debug\C_作業1.MainForm.resources
+C:\Users\User\Desktop\C#練習\作業\作業\C#作業1\obj\Debug\C_作業1.OrderFood.resources
+C:\Users\User\Desktop\C#練習\作業\作業\C#作業1\obj\Debug\C_作業1.Properties.Resources.resources
+C:\Users\User\Desktop\C#練習\作業\作業\C#作業1\obj\Debug\C_作業1.ScoreComparison.resources
+C:\Users\User\Desktop\C#練習\作業\作業\C#作業1\obj\Debug\C_作業1.Simple_Calculator.resources
+C:\Users\User\Desktop\C#練習\作業\作業\C#作業1\obj\Debug\C_作業1.Tic_Tac_Toe.resources
+C:\Users\User\Desktop\C#練習\作業\作業\C#作業1\obj\Debug\C#作業1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#練習\作業\作業\C#作業1\obj\Debug\C#作業1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#練習\作業\作業\C#作業1\obj\Debug\C#作業1.exe
+C:\Users\User\Desktop\C#練習\作業\作業\C#作業1\obj\Debug\C#作業1.pdb
+C:\Users\User\Desktop\C#練習\作業\C#作業1\bin\Debug\C#作業1.exe.config
+C:\Users\User\Desktop\C#練習\作業\C#作業1\bin\Debug\C#作業1.exe
+C:\Users\User\Desktop\C#練習\作業\C#作業1\bin\Debug\C#作業1.pdb
+C:\Users\User\Desktop\C#練習\作業\C#作業1\obj\Debug\C#作業1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#練習\作業\C#作業1\obj\Debug\C#作業1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C#練習\作業\C#作業1\obj\Debug\C_作業1.Array1.resources
+C:\Users\User\Desktop\C#練習\作業\C#作業1\obj\Debug\C_作業1.Form1.resources
+C:\Users\User\Desktop\C#練習\作業\C#作業1\obj\Debug\C_作業1.Guess_Number.resources
+C:\Users\User\Desktop\C#練習\作業\C#作業1\obj\Debug\C_作業1.Loan.resources
+C:\Users\User\Desktop\C#練習\作業\C#作業1\obj\Debug\C_作業1.Loan_Report.resources
+C:\Users\User\Desktop\C#練習\作業\C#作業1\obj\Debug\C_作業1.MainForm.resources
+C:\Users\User\Desktop\C#練習\作業\C#作業1\obj\Debug\C_作業1.OrderFood.resources
+C:\Users\User\Desktop\C#練習\作業\C#作業1\obj\Debug\C_作業1.Properties.Resources.resources
+C:\Users\User\Desktop\C#練習\作業\C#作業1\obj\Debug\C_作業1.ScoreComparison.resources
+C:\Users\User\Desktop\C#練習\作業\C#作業1\obj\Debug\C_作業1.Simple_Calculator.resources
+C:\Users\User\Desktop\C#練習\作業\C#作業1\obj\Debug\C_作業1.Tic_Tac_Toe.resources
+C:\Users\User\Desktop\C#練習\作業\C#作業1\obj\Debug\C#作業1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#練習\作業\C#作業1\obj\Debug\C#作業1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#練習\作業\C#作業1\obj\Debug\C#作業1.exe
+C:\Users\User\Desktop\C#練習\作業\C#作業1\obj\Debug\C#作業1.pdb
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\obj\Debug\C_作業1.Array1.resources
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\obj\Debug\C_作業1.NotePad.resources
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\obj\Debug\C_作業1.ScreenSaver.resources
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\obj\Debug\C_作業1.Paint.resources
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\obj\Debug\C_作業1.Picture_Viewer.resources
+C:\Users\User\Desktop\C#練習\作業\C#作業1\obj\Debug\C_作業1.NotePad.resources
+C:\Users\User\Desktop\C#練習\作業\C#作業1\obj\Debug\C_作業1.Paint.resources
+C:\Users\User\Desktop\C#練習\作業\C#作業1\obj\Debug\C_作業1.Picture_Viewer.resources
+C:\Users\User\Desktop\C#練習\作業\C#作業1\obj\Debug\C_作業1.ScreenSaver.resources
+C:\Users\User\Desktop\C#練習\作業\C#作業1\obj\Debug\C_作業1.Picture_Viewer_Show.resources
+C:\Users\User\Desktop\C#練習\作業\C#作業1\obj\Debug\C_作業1.Grade.resources
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\obj\Debug\C_作業1.Grade.resources
+C:\Users\user\Desktop\Visual Studio\C#\作業\C#作業1\obj\Debug\C_作業1.Picture_Viewer_Show.resources
